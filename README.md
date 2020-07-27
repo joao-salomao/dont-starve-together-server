@@ -1,6 +1,9 @@
 # dont-starve-together-server
 Container Docker configurado para rodar um servidor de Don't Starve Together
 
+## Pré-requisitos
+ - [Docker](https://docs.docker.com/engine/install/)
+
 ## Instalação
 - Gere o seu seguindo os passos da seção "3. Configure and download the server settings" do tutorial no link abaixo:
 
