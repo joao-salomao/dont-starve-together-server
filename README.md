@@ -5,7 +5,7 @@ Container Docker configurado para rodar um servidor de Don't Starve Together
  - [Docker](https://docs.docker.com/engine/install/)
 
 ## Instalação
-- Gere o seu seguindo os passos da seção "3. Configure and download the server settings" do tutorial no link abaixo:
+- Gere o token do seu servidor seguindo os passos da seção "3. Configure and download the server settings" do tutorial no link abaixo:
 
      [GENERATE-TOKEN](https://forums.kleientertainment.com/forums/topic/64441-dedicated-server-quick-setup-guide-linux/)
 
